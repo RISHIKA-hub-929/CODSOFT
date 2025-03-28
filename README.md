@@ -1,2 +1,2 @@
 # CODSOFT-1
-Titanic Survival Prediction Project
+Titanic Survival Prediction 
